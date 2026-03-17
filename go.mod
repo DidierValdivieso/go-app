@@ -1,4 +1,4 @@
-module github.com/integrationninjas/go-app
+module github.com/DidierValdivieso/go-app
 
 go 1.22.2
 
