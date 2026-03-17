@@ -41,5 +41,3 @@ and works out‑of‑the‑box.
 * Replace the self‑hosted deploy with a fully managed ECS‑Fargate
   deployment—the workflow already contains the necessary
   configuration.
-
----  
